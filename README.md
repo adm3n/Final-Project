@@ -7,3 +7,4 @@ Should you choose to explore, here is what you will learn about me:
 - What I Do In A Day
 - My Makeup Business
 - My Embroidery Business
+
