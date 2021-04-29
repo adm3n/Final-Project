@@ -1,2 +1,2 @@
-# Final-Project
-Personal Page created on Github using Markdown to submit as my final project for Info Tech 1000
+# Adriana Doolin - Personal Page
+Read ahead to learn more about me
