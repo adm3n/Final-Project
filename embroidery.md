@@ -6,7 +6,7 @@ So I recently developed the idea of getting an embroidery machine and selling cr
 
 Here is a picture of my favorite piece I've done so far:
 ![ahsoka 2](https://user-images.githubusercontent.com/77805049/117221419-d4ccec80-adce-11eb-90df-9903f789f0cf.JPG)
-**Ahsoka Tano is a character introduced in Star Wars: The Clone Wars. She is Anakin Skywalkers padawan and a fan favorite. The character made her first live action appearance in an episode of the second season of The Mandolorian, and was played by Rosario Dawson. 
+**Ahsoka Tano is a character introduced in Star Wars: The Clone Wars. She is Anakin Skywalkers padawan and a fan favorite. The character made her first live action appearance in an episode of the second season of The Mandolorian, and was played by Rosario Dawson.**
 
 [Home](README.md)
 
