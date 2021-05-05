@@ -1,5 +1,5 @@
 # My Education Experience
-It's been... interesting
+*It's been... interesting*
 
 ### High School
 If theres anything I know about high school, it's that I hated it. There were definitely fun parts, but I couldn't seem to look past how shallow most people were. My friends were a group of athletes, and a lot of them played on the basketball team (our high school SUCKS at football, but basketball is decent so it's really popular). I was a little hypocritical, because I was "friends" with them, but constantly judging them for how they acted, which was arrogant, entitled, exclusive, but I was being the exact same way. My class in high school was extrememly competetive, escpecially in academics. Because of this, I never tried very hard to be top of the class because I knew I wouldn't make it. I also knew I didn't plan on going anywhere crazy for college so I didn't need to. I did alright though with As and Bs. I was partying a lot my senior year because I was just unhappy with who I was and when my parents found out and grounded me for the summer after graduation it changed my attitute about how college would be.
