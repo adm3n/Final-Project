@@ -5,4 +5,6 @@ I loved my childhood. I was blessed with a great one. I remember chasing firefli
 
 I look back on my childhood and almost always smile. Life was, and still is, so good. Sometimes though, there is a seed of sadness knowing now what I didn't then. It's inevitable that at some point we all understand things that we don't want to. Things like war, and injustice, and true suffering. But I can hold onto the hope that somehow I can find a way to make the world a better place, and as I grow older and wiser, I like to think that my role in that could too. Make a difference, and make it bigger as time goes on. 
 
+If you want to read more about my life growing up, you can [here](school.md)
+
 [Home](README.md)
