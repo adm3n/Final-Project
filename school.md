@@ -12,3 +12,5 @@ The summer before I came to Mizzou is probably one of the best ones of my life. 
 
 ### College - Junior Year
 Junior year has been a bizzare experience. Zoom university is not as fun as Mizzou in person. It could be a lot worse though, so I shouldn't complain. For the most part my professors have been understanding and my grades have stayed afloat. This final project is turning out to be on of my favorites so far. I may be writing to much but it's quite theraputic. Next year I will graduate with a Bachelor of Science in Economics. After that, who knows? I'm not worried about it. 
+
+[Home](README.md)
