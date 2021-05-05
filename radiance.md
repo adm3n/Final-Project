@@ -6,3 +6,6 @@ I've done makeup on my two sisters and close friends for as long as I can rememb
 
 ### My Services:
 I still do makeup for prom and homecoming, but I've branched out since high school. I now mostly do makeup for bridal parties and weddings, which is good because it's my favorite to do. I love the energy that radiates from the bride and her bridesmaids getting ready for such a special day. I also do stuff for photoshoots like engagement photos and maternity photos and stuff like that. I'm working right now on booking a music video where I would get to do some special effects makeup which is so fun to do (especially outside of Halloween)! 
+
+You can view my website here [Radiance Cosmetic Artistry](https://www.radiancecosmeticartistry.com/)
+[back to home](README.md)
