@@ -1,5 +1,5 @@
 # Radiance Cosmetic Artisrty
-My makeup business
+*My makeup business*
 
 ### The Business:
 I've done makeup on my two sisters and close friends for as long as I can remember, but it was in highschool that I really found out it was my passion. I was getting paid by other girls at school to do their makeup for homecoming and prom, and it was so much fun. I took an entrepreneurship course that taught me the basics of running a business and hooked me up with a mentor. Then we were able to take out business loans in order to start our business. I borrowed some money, stocked my kit with the product I bought, and the rest is history. 
