@@ -9,4 +9,4 @@ I still do makeup for prom and homecoming, but I've branched out since high scho
 
 You can view my website here [Radiance Cosmetic Artistry](https://www.radiancecosmeticartistry.com/)
 
-[back to home](README.md)
+[Home](README.md)
