@@ -8,5 +8,34 @@ Here is a picture of my favorite piece I've done so far:
 ![ahsoka 2](https://user-images.githubusercontent.com/77805049/117221419-d4ccec80-adce-11eb-90df-9903f789f0cf.JPG)
 **Ahsoka Tano is a character introduced in Star Wars: The Clone Wars. She is Anakin Skywalkers padawan and a fan favorite. The character made her first live action appearance in an episode of the second season of The Mandolorian, and was played by Rosario Dawson.**
 
+<!DOCTYPE html>
+<html>
+  <head>
+<h1>Here is the breakdown of my embroidery business finances:</h1>
+  </head>
+  <body>
+    <h2>Costs:</h2>
+<ol>
+<li> $1,200 - Embroidery Machine</li>
+  <li> $125 - Crewnecks (15)</li>
+  <li> $100 - tshirts(40)</li>
+  <li> $71.50 - hats (10 buckets, 5 ball caps, 5 beanies)</li>
+  <li> $1,496.50 - Total Expenses</li>
+</ol>
+<h2>Pricing:</h2>
+<ol>
+<li> $45 - Crewnecks</li>
+<li> $20 - Tshirts</li>
+<li> $15 - hats</li>
+<li> $1,775 - Earnings after all merchandise is sold</li>
+</ol>
+<p>Now we need to see how much I actually profited</p>
+<h3>
+  Profit:
+  <p>
+    	$1,775&#8722; $1,496.50&#61; $278.5 (PROFIT) <br/> Yay!
+  </p>
+  </body>
+  </html>
 [Home](README.md)
 
